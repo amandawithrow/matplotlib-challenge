@@ -6,12 +6,18 @@ This project analyzes treatment data from an animal study of potential treatment
 ### Included files
 *[Jupyter Notebook with code, tables and figures](pymaceuticals/pymaceuticals_main.ipynb)
 *Original Data CSV Files
+
  -[Clinical Trial](pymaceuticals/data/clinicaltrial_data.csv)
+ 
  -[Mouse-Drug](pymaceuticals/data/mouse_drug_data.csv)
+ 
 *Figures
  -[Tumor Response to Treatment](pymaceuticals/figures/tumor_response.png)
+ 
  -[Metastatic Spread During Treatment](pymaceuticals/figures/metastatic_spread.png)
+ 
  -[Survival During Treatment](pymaceuticals/figures/survival.png)
+ 
  -[Tumor Change over 45 day Treatment](pymaceuticals/figures/percent_tumor_change.png)
 
 ## Observable Trends
